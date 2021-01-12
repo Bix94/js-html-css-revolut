@@ -163,6 +163,45 @@
 .mgb_100{
   margin-bottom:100px;
 }
+/* LEFT */
+.mgl_10{
+  margin-left: 10px;
+}
+.mgl_20{
+  margin-left: 20px;
+}
+.mgl_40{
+  margin-left: 40px;
+}
+.mgl_60{
+  margin-left: 60px;
+}
+.mgl_80{
+  margin-left:80px;
+}
+.mgl_100{
+  margin-left:100px;
+}
+/* RIGHT */
+.mgr_10{
+  margin-right: 10px;
+}
+.mgr_20{
+  margin-right: 20px;
+}
+.mgr_40{
+  margin-right: 40px;
+}
+.mgr_60{
+  margin-right: 60px;
+}
+.mgr_80{
+  margin-right:80px;
+}
+.mgr_100{
+  margin-right:100px;
+}
+
 /* IMMAGINI */
 .small{
   height: 150px;
